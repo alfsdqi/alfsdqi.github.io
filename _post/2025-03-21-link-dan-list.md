@@ -7,4 +7,4 @@ title:"HTML link  dan list"
 
 Penjelasan tentang list dan link pada HTML.
 
-![html link dan list](/assets/Gambar/download.png)
+![html link dan list](/assets/Gambar/download.jpg)

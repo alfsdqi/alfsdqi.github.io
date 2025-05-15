@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-05-15T21:54:17+07:00</updated><id>http://localhost:4000/feed.xml</id><entry><title type="html">HTML: Link dan Daftar</title><link href="http://localhost:4000/2025/03/20/html-link-dan-list.html" rel="alternate" type="text/html" title="HTML: Link dan Daftar" /><published>2025-03-20T00:00:00+07:00</published><updated>2025-03-20T00:00:00+07:00</updated><id>http://localhost:4000/2025/03/20/html-link-dan-list</id><content type="html" xml:base="http://localhost:4000/2025/03/20/html-link-dan-list.html"><![CDATA[<p>Materi dasar mengenai penggunaan tautan dan daftar dalam HTML.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-05-15T22:09:07+07:00</updated><id>http://localhost:4000/feed.xml</id><entry><title type="html">HTML: Link dan Daftar</title><link href="http://localhost:4000/2025/03/20/html-link-dan-list.html" rel="alternate" type="text/html" title="HTML: Link dan Daftar" /><published>2025-03-20T00:00:00+07:00</published><updated>2025-03-20T00:00:00+07:00</updated><id>http://localhost:4000/2025/03/20/html-link-dan-list</id><content type="html" xml:base="http://localhost:4000/2025/03/20/html-link-dan-list.html"><![CDATA[<p>Materi dasar mengenai penggunaan tautan dan daftar dalam HTML.</p>
 
 <h1 id="-memahami-link--daftar-dalam-html">🔗 Memahami Link &amp; Daftar dalam HTML</h1>
 
@@ -468,7 +468,7 @@ Menu dalam bentuk tab, memudahkan perpindahan antar konten pada satu halaman.</p
 
 <blockquote>
   <p>💡 Mulailah dari Markdown, lalu perdalam HTML untuk kontrol yang lebih menyeluruh! 🚀</p>
-</blockquote>]]></content><author><name></name></author><summary type="html"><![CDATA[Materi tentang Markdown dan HTML]]></summary></entry><entry><title type="html">Instalasi Ruby dan Jekyll</title><link href="http://localhost:4000/2025/02/20/instalasi-jekyll.html" rel="alternate" type="text/html" title="Instalasi Ruby dan Jekyll" /><published>2025-02-20T00:00:00+07:00</published><updated>2025-02-20T00:00:00+07:00</updated><id>http://localhost:4000/2025/02/20/instalasi-jekyll</id><content type="html" xml:base="http://localhost:4000/2025/02/20/instalasi-jekyll.html"><![CDATA[<p>Panduan lengkap instalasi Ruby dan Jekyll untuk membuat situs statis menggunakan Jekyll.</p>
+</blockquote>]]></content><author><name></name></author><summary type="html"><![CDATA[Materi tentang Markdown dan HTML]]></summary></entry><entry><title type="html">Instalasi Ruby dan Jekyll</title><link href="http://localhost:4000/2025/02/20/instalasi-jekyll.html" rel="alternate" type="text/html" title="Instalasi Ruby dan Jekyll" /><published>2025-02-20T00:00:00+07:00</published><updated>2025-02-20T00:00:00+07:00</updated><id>http://localhost:4000/2025/02/20/instalasi-jekyll</id><content type="html" xml:base="http://localhost:4000/2025/02/20/instalasi-jekyll.html"><![CDATA[<p>Panduan lengkap instalasi Ruby dan Jekyll.</p>
 
 <h1 id="-panduan-instalasi-ruby--jekyll">📘 Panduan Instalasi Ruby &amp; Jekyll</h1>
 
@@ -556,4 +556,4 @@ jekyll -v # versi Jekyll</p>
 
 <blockquote>
   <p>Selamat berkarya dengan Jekyll! 🚀</p>
-</blockquote>]]></content><author><name></name></author><summary type="html"><![CDATA[Panduan lengkap instalasi Ruby dan Jekyll untuk membuat situs statis menggunakan Jekyll.]]></summary></entry></feed>
+</blockquote>]]></content><author><name></name></author><summary type="html"><![CDATA[Panduan lengkap instalasi Ruby dan Jekyll.]]></summary></entry></feed>

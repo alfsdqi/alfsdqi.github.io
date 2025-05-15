@@ -1,0 +1,90 @@
+I"<p>Panduan lengkap instalasi Ruby dan Jekyll untuk membuat situs statis menggunakan Jekyll.</p>
+
+<h1 id="-panduan-instalasi-ruby--jekyll">📘 Panduan Instalasi Ruby &amp; Jekyll</h1>
+
+<h2 id="-apa-itu-ruby-dan-jekyll">💎 Apa Itu Ruby dan Jekyll?</h2>
+
+<ul>
+  <li><strong>Ruby</strong> adalah bahasa pemrograman yang digunakan sebagai dasar Jekyll.</li>
+  <li><strong>Jekyll</strong> adalah <em>static site generator</em> berbasis Ruby, populer untuk membuat blog, portofolio, atau dokumentasi — termasuk untuk GitHub Pages.</li>
+</ul>
+
+<hr />
+
+<h2 id="-persiapan-instalasi">🔧 Persiapan Instalasi</h2>
+
+<h3 id="1-instal-ruby">1. Instal Ruby</h3>
+
+<h4 id="-windows">▶ Windows</h4>
+
+<ol>
+  <li>Unduh installer dari: <a href="https://rubyinstaller.org">https://rubyinstaller.org</a></li>
+  <li>Pilih versi <strong>Ruby + DevKit</strong>, misalnya: <code class="language-plaintext highlighter-rouge">Ruby 3.1.4-1 (x64)</code></li>
+  <li>Setelah instalasi:
+    <ul>
+      <li>Centang opsi <strong>“Run <code class="language-plaintext highlighter-rouge">ridk install</code>“</strong></li>
+      <li>Pilih semua komponen (opsi 1, 2, dan 3)</li>
+    </ul>
+  </li>
+</ol>
+
+<h4 id="-macos">▶ macOS</h4>
+
+<p>Instal Ruby menggunakan Homebrew:</p>
+
+<p>```bash
+/bin/bash -c “$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)”
+brew install ruby</p>
+
+<h4 id="-linux">▶ Linux</h4>
+
+<p>sudo apt update
+sudo apt install ruby-full build-essential zlib1g-dev
+Tambahkan RubyGems ke PATH:
+echo ‘# Install Ruby Gems to ~/gems’ » ~/.bashrc
+echo ‘export GEM_HOME=”$HOME/gems”’ » ~/.bashrc
+echo ‘export PATH=”$HOME/gems/bin:$PATH”’ » ~/.bashrc
+source ~/.bashrc</p>
+
+<p>🌟 Instalasi Jekyll
+Setelah Ruby terinstal, jalankan:
+gem install jekyll bundler</p>
+
+<p>🚀 Membuat dan Menjalankan Proyek Jekyll</p>
+
+<ol>
+  <li>
+    <p>Membuat proyek baru:
+jekyll new nama-proyek
+cd nama-proyek</p>
+  </li>
+  <li>
+    <p>Menjalankan server lokal:
+bundle exec jekyll serve
+Buka di browser:
+http://localhost:4000</p>
+  </li>
+</ol>
+
+<p>🧪 Cek Versi
+ruby -v # versi Ruby
+jekyll -v # versi Jekyll</p>
+
+<hr />
+
+<h2 id="-kesimpulan">✅ Kesimpulan</h2>
+
+<p>Instalasi Jekyll membutuhkan beberapa langkah utama, yaitu:</p>
+
+<ol>
+  <li><strong>Menginstal Ruby</strong> – sebagai fondasi karena Jekyll dibangun dengan Ruby.</li>
+  <li><strong>Menginstal Jekyll dan Bundler</strong> – menggunakan perintah <code class="language-plaintext highlighter-rouge">gem install</code>.</li>
+  <li><strong>Membuat dan menjalankan proyek Jekyll</strong> – dengan <code class="language-plaintext highlighter-rouge">jekyll new</code> dan <code class="language-plaintext highlighter-rouge">bundle exec jekyll serve</code>.</li>
+</ol>
+
+<p>Dengan mengikuti langkah-langkah ini, kamu sudah siap membangun situs statis menggunakan Jekyll di berbagai sistem operasi (Windows, macOS, atau Linux). Pastikan kamu juga melakukan pengecekan versi dan menyesuaikan jika menggunakan layanan seperti GitHub Pages.</p>
+
+<blockquote>
+  <p>Selamat berkarya dengan Jekyll! 🚀</p>
+</blockquote>
+:ET

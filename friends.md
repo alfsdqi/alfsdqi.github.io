@@ -5,7 +5,7 @@ titles: friends
 
 # Friends page
 
-berikut teman-teman saya dikelas:
+berikut teman-teman saya dikelas dikelas TI :
 
 1. [Ahmad Fayyadh](https://ahmadfayyadh.github.io/)
 2. [Al Anisa Maharani](https://alanisamaharani.github.io/)

@@ -4,7 +4,7 @@ title: "Instalasi Ruby dan Jekyll"
 date: 2025-02-20
 ---
 
-Panduan lengkap instalasi Ruby dan Jekyll untuk membuat situs statis menggunakan Jekyll.
+Panduan lengkap instalasi Ruby dan Jekyll.
 
 # 📘 Panduan Instalasi Ruby & Jekyll
 

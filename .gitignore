@@ -5,7 +5,6 @@ _site/
 
 # ===== Temp & Cache Files =====
 tmp/
-*.log
 
 # ignore ALL .log files
 *.log

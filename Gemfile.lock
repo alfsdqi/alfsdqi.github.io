@@ -78,15 +78,12 @@ GEM
 
 PLATFORMS
   x64-mingw-ucrt
-  
 
 DEPENDENCIES
   jekyll
   jekyll-feed
   jekyll-seo-tag
   jekyll-sitemap
-
-
 
 BUNDLED WITH
    2.6.5

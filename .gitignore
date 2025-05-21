@@ -6,6 +6,7 @@ _site/
 # ===== Temp & Cache Files =====
 tmp/
 *.log
+_site/
 
 # ===== System Files =====
 .DS_Store

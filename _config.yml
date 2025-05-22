@@ -1,6 +1,12 @@
-title:  Home
-baseurl:  ""
+title: Home
+baseurl: ""
 url:  'https://alfsdqi.github.io'
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+theme: null
 
 plugins:
   - jekyll-feed
